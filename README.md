@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Forcer0625
-- 👀 I’m interested in A.I., Wireless Sensor Network and IoT/AIoT
-- 🌱 I’m currently learning Reinforcement Learning
+- 👀 I’m interested in Reinforcement Learning and IoT/AIoT
+- 🌱 I’m currently learning Multiple Agent Reinforcement Learning
 - 📫 How to reach me : elison8934678@gmail.com
 
 <!---
